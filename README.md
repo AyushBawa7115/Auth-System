@@ -53,6 +53,3 @@ This project demonstrates real-world backend concepts like session handling, pas
 - **Database:** MySQL  
 - **Server:** XAMPP (Apache)
 
----
-
-## 📂 Project Structure
