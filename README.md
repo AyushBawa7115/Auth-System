@@ -2,7 +2,7 @@
 
 A modern, secure, and visually polished authentication system built using **PHP, MySQL, HTML, CSS, and JavaScript**.
 
-This project demonstrates real-world backend concepts like session handling, password hashing, user management, and activity tracking — combined with a modern UI/UX design.
+This project is demonstrating real-world backend concepts like session handling, password hashing, user management, and activity tracking — combined with a modern UI/UX design.
 
 ---
 
